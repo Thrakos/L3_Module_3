@@ -14,7 +14,6 @@ public class BackwardsString extends SpecialString {
 		for (int i = 0; i < s.length(); i ++) {
 			thing += s.charAt(s.length() - i);
 		}
-		System.out.println(thing);
 		return thing;
 	}
 
