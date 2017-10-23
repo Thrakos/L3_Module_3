@@ -4,7 +4,7 @@ You have to write the getAnnualTaxes method for each city. In this utopia, every
 Therefore, the annual taxes can be calculated by multiplying the population by the growthRate. However, each city gets a unique bonus based
 on the information below.
 
-*San Diego gets a flat bonus of $1,000,000 for being the best city ever.
-*Boston gets a bonus of $0.50 per person for having wicked cool accents.
-*Los Angeles gets a multiplication bonus of half the growthRate from the Hollywood Mafia.
-*Atlanta gets a multiplication bonus of twice the growthRate because their airport is just so darn huge!
+*San Diego gets a flat bonus of $1,000,000 for being the best city ever. :D
+*Boston gets a bonus of $0.50 per person for having wicked cool accents. ;)
+*Los Angeles gets a multiplication bonus of half the growthRate from the Hollywood Mafia. :O
+*Atlanta gets a multiplication bonus of twice the growthRate because their airport is just so darn huge! :|
